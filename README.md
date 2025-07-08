@@ -116,4 +116,8 @@ Agar men sayohatchi bo'lganimda, men...
 
 ---
 
+<<<<<<< HEAD
 *This worksheet is designed for sequential, communicative thinking and gradual mastery of the Second Conditional in Uzbek.* 
+=======
+*This worksheet is designed for sequential, communicative thinking and gradual mastery of the Second Conditional in Uzbek.* 
+>>>>>>> 0f7a298a8ceb990664ceae18225cf167365a2ffc
