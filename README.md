@@ -71,6 +71,8 @@ Balki o'zimni erkin his qilardim, lekin ehtimol yolg'iz bo'lardim.
 Shuning uchun ehtimol mening hayotim yomon emas.  
 Lekin ba'zida, men baribir orzu qilaman.
 
+<img src="./images/ali.png" alt="Ali" style="width: 50%; height: auto;">
+
 ---
 
 ### 💬 Gapirish uchun ishoralar (Infinitive Verb Form – "moq" format)
@@ -235,5 +237,3 @@ Agar men sayohatchi bo'lganimda, men...
 **Vazifa:** Matnni o'qing va ikki hayot yo'li haqida gapiring. Quyidagi fe'llardan foydalanib, o'z nutqingizni tuzing. O'zingiz uchun ham shunday ikki yo'l haqida gapirib ko'ring!
 
 ---
-
-*This worksheet is designed for sequential, communicative thinking and gradual mastery of the Second Conditional in Uzbek.* 
